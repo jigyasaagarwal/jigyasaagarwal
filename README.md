@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jigyasaagarwal&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasaagarwal&theme=tokyonight)
+
+<table>
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jigyasaagarwal&show_icons=true&&&count_private=true&include_all_commits=true&theme=tokyonight" display=block width=100% height=auto align="center" alt="1"></td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasaagarwal&theme=tokyonight&layout=compact" display=block height=180 width=100% align="center" alt="2">
+    </td></tr>
+  </table>
