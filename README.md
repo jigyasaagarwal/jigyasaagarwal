@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jigyasa Agarwal
-
+### I am a 3rd year undergraduate student majoring in Computer Science from VIT Chennai
 <!--
 **jigyasaagarwal/jigyasaagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Contact Me
+ <a href= "https://www.linkedin.com/in/jigyasa-agarwal-51940b1b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 ## Skills
 <div>
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -36,7 +39,9 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
-<br>
+
+## My GitHub Stats
+
 <table>
   <tr>
     <td>
