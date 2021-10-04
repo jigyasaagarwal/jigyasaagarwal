@@ -5,20 +5,19 @@
 <img src="https://user-images.githubusercontent.com/65805525/135856232-aa161994-2c13-4ac3-b7ca-f597e65029d0.gif"></p>
 
                                                                                                                 
-<!--
-**jigyasaagarwal/jigyasaagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on 
+- Internet of Things
+- Cloud Computing
+- Web Development
+- UI/UX Design
+## 🌱 I’m currently learning
+- Augmented Reality
+- Machine Learning 
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
                                                                                                                 
 ## Contact Me
  <a href= "https://www.linkedin.com/in/jigyasa-agarwal-51940b1b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
