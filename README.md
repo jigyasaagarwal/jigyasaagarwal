@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Jigyasa Agarwal
-### I am a 3rd year undergraduate student majoring in Computer Science from VIT Chennai
+### I am a 4th year undergraduate student majoring in Computer Science from VIT Chennai
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65805525/135856232-aa161994-2c13-4ac3-b7ca-f597e65029d0.gif"></p>
@@ -7,10 +7,11 @@
                                                                                                                 
 
 ## 🔭 I’m currently working on 
+- Metaverse
+- Augmented and Virtual Reality
 - Internet of Things
 - Cloud Computing
-- Web Development
-- UI/UX Design
+
 ## 🌱 I’m currently learning
 - Augmented Reality
 - Machine Learning 
